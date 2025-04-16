@@ -48,6 +48,9 @@ The **Smart Room Environment and Occupancy Monitor** is an IoT-based system desi
 - Das, S. K., & Mukherjee, A. (2017). IoT-based smart home management. *ICMDCS*.
 - Mahdavinejad, M. S., et al. (2018). Machine learning for IoT data analysis. *arXiv:1809.00847*.
 - ThingSpeak Documentation: [https://thingspeak.com](https://thingspeak.com)
+  
+## Wokwi working model link
+- https://wokwi.com/projects/428341005411164161
 
 ## Contributors
 - Sri Krishna Chaitanya Chivatam
